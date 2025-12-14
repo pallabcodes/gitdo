@@ -1,1 +1,3 @@
-# This repo is all about git pracices for day to day plus advanced commands
+# This repo is all about git practices for day to day plus advanced commands
+
+The commands for day to day work mostly: add, commit, push, and ammend
