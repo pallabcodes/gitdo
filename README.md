@@ -1,0 +1,1 @@
+# This repo is all about git pracices for day to day plus advanced commands
