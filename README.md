@@ -4,4 +4,4 @@ The commands for day to day work mostly: add, commit, push, and ammendaa
 
 Test Changed
 
-Added themes
+Added themes with transparency for iterm (mac) and kitty (linux)
